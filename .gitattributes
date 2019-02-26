@@ -1,0 +1,2 @@
+big_file_1 filter=lfs diff=lfs merge=lfs -text
+big_file_2 filter=lfs diff=lfs merge=lfs -text
